@@ -47,24 +47,27 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
-    "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
-    "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
-    "correo": "request_contacto",
-    "electronico": "request_contacto",
-    "gmail": "request_contacto",
-    "hotmail": "request_contacto",
-    "g-mail": "request_contacto",
-    "mail": "request_contacto",
-      
+
+    "email": "request_email",
+    "mail": "request_email",
+    "electronico": "request_email",
+    "e-mail": "request_email",
+    "correo": "request_email",
+    "electronico": "request_email",
+    "gmail": "request_email",
+    "hotmail": "request_email",
+    "g-mail": "request_email",
+    
+
+    "telefono": "request_Telefono",
+    "tlfno": "request_Telefono",
+    "tlfn": "request_Telefono",
+    "llamar": "request_Telefono",
+    "llamada": "request_Telefono",
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -91,7 +94,9 @@ answer = {
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_Seleccion_Inscripcion": "¿Quieres información sobre la pre-matrícula o sobre la matrícula?",
-    "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
+    "request_contacto" : "¿Cómo quieres contactar con nostros: por email o por telefono?"
+    "request_email": "Los datos de contacto del centro son: Email: eagi@eagi.eus ",
+    "request_Telefono": "Puedes llamar al teléfono: 943 569 222",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
