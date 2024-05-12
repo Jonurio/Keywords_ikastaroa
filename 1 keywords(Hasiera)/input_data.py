@@ -47,6 +47,8 @@ keywords = {
    
 
     "contacto" : "request_contacto",
+    "contactar" : "request_contacto",
+    "contacta" : "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
@@ -94,8 +96,8 @@ answer = {
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_Seleccion_Inscripcion": "¿Quieres información sobre la pre-matrícula o sobre la matrícula?",
-    "request_contacto" : "¿Cómo quieres contactar con nostros: por email o por telefono?"
-    "request_email": "Los datos de contacto del centro son: Email: eagi@eagi.eus ",
+    "request_contacto" : "¿Cómo quieres contactar con nostros: por email o por telefono?",
+    "request_email": "Los datos de contacto del centro son: Email: eagi@eagi.eus",
     "request_Telefono": "Puedes llamar al teléfono: 943 569 222",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
 
